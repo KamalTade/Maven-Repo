@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Demo {
 	
-	public void test() {
+	public void testApplication() {
 		
 		//logic
 		
